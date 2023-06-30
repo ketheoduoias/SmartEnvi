@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86534504753",
+    "project_id": "smartenviroment",
+    "storage_bucket": "smartenviroment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86534504753:android:67d81a716cd4fa50f3b010",
+        "android_client_info": {
+          "package_name": "com.app.pollution_environment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86534504753-lbbb8iuptlp48c38cgs9fqkrso4e8e58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX-3Uloaa4QvZSMgtIVbd9UQRy4Nhx5yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86534504753-lbbb8iuptlp48c38cgs9fqkrso4e8e58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
